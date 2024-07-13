@@ -7,3 +7,6 @@ print('Resultado =', c)
 
 d = c * 200 * 2
 print('Resultado total =', d)
+
+e = .1 * d
+print('Prueba para SourceTree / Se agrega variable E:', e)
