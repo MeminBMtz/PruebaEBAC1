@@ -10,3 +10,5 @@ print('Resultado total =', d)
 
 e = .1 * d
 print('Prueba para SourceTree / Se agrega variable E:', e)
+
+print('Otro ejemplo.')
