@@ -12,3 +12,7 @@ e = .1 * d
 print('Prueba para SourceTree / Se agrega variable E:', e)
 
 print('Otro ejemplo.')
+
+# Agregué la variable f
+f = .2 * e * a
+print('F =',f)
